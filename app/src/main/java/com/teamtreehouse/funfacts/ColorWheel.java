@@ -11,7 +11,7 @@ public class ColorWheel {
             "#3079ab", // dark blue
             "#c25975", // mauve
             "#e15258", // red
-            "#f9845b", // orange
+            "#f9745b", // orange
             "#838cc7", // lavender
             "#7d669e", // purple
             "#53bbb4", // aqua
